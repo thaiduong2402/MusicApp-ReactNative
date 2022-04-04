@@ -1,0 +1,14 @@
+h1{
+    margin-top: 100px;
+    color: red;
+}
+.header{
+    width: 1000px;
+    height: 300px;
+    background-image: url('../images/backgroundMusic.jpg');
+}
+.footer{
+    width: 1000px;
+    height: 300px;
+    background-image: url('../images/header.png');
+}
